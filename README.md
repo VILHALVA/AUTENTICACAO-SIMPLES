@@ -74,7 +74,7 @@ Em termos simples, os usuários podem:
 
 ## TECNOLOGIAS USADAS:
 - [**DJANGO:**](https://github.com/VILHALVA/CURSO-DE-DJANGO) Framework de aplicativo da web em Python.
-- [**SQLITE:**](https://github.com/VILHALVA/CURSO-DE-MYSQL) Sistema de gerenciamento de banco de dados relacional.
+- [**SQLITE:**](https://github.com/VILHALVA/CURSO-DE-SQLITE) Sistema de gerenciamento de banco de dados relacional.
 - [**BOOTSTRAP:**](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP) Biblioteca de CSS para facilitar o desenvolvimento do layout e design responsivo da interface do usuário.
    
 ## CREDITOS:
