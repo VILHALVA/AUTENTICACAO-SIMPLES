@@ -71,6 +71,11 @@ Em termos simples, os usuários podem:
    5. **Logout**:
       - Quando desejar sair da sua conta, clique no botão "Sair" na barra de navegação.
       - Isso fará com que você seja desconectado da sua conta e redirecionado de volta para a página inicial.
+
+## TECNOLOGIAS USADAS:
+- [**DJANGO:**](https://github.com/VILHALVA/CURSO-DE-DJANGO) Framework de aplicativo da web em Python.
+- [**SQLITE:**](https://github.com/VILHALVA/CURSO-DE-MYSQL) Sistema de gerenciamento de banco de dados relacional.
+- [**BOOTSTRAP:**](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP) Biblioteca de CSS para facilitar o desenvolvimento do layout e design responsivo da interface do usuário.
    
 ## CREDITOS:
 - [PROJETO CRIADO PELO "codloom"](https://github.com/codloom/DjangoAutenticacaoSimples)
