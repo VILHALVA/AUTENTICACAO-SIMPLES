@@ -35,13 +35,12 @@ Em termos simples, os usuários podem:
    Este comando aplicará todas as migrações pendentes ao banco de dados, garantindo que o esquema do banco de dados esteja sincronizado com as alterações nos modelos de dados do seu aplicativo Django.
 
 2. **Instalando as dependências:**
-   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt`:
+   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Executando o Aplicativo:**
-   - Após instalar as dependências, para iniciar o servidor, navegue até o diretório `CODIGO` no terminal.
    - Em seguida, execute o seguinte comando para iniciar o servidor Django:
    ```bash
    python manage.py runserver
