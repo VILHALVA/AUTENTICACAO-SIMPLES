@@ -72,8 +72,10 @@ Em termos simples, os usuários podem:
       - Isso fará com que você seja desconectado da sua conta e redirecionado de volta para a página inicial.
 
 ## TECNOLOGIAS USADAS:
+- [**PYTHON**:](https://github.com/VILHALVA/CURSO-DE-PYTHON) Python é uma linguagem de Programação.
 - [**DJANGO:**](https://github.com/VILHALVA/CURSO-DE-DJANGO) Framework de aplicativo da web em Python.
 - [**SQLITE:**](https://github.com/VILHALVA/CURSO-DE-SQLITE) Sistema de gerenciamento de banco de dados relacional.
+- [**PYTHON COM SQLITE**:](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE) Python é uma linguagem de Programação, enquanto SQLite é um banco de dados.
 - [**BOOTSTRAP:**](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP) Biblioteca de CSS para facilitar o desenvolvimento do layout e design responsivo da interface do usuário.
    
 ## CREDITOS:
